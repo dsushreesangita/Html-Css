@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    text-align: center; /* used for text center*/
+}
+body{
+    background-color:rgba(255, 0, 195, 0.267) ;
+    
+}
+
+#cls1,#cls2{
+    background-color: rgb(17, 134, 142);
+    padding: 50px;
+}
